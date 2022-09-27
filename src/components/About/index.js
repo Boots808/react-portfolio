@@ -27,6 +27,35 @@ function About() {
           <li>Please check out my portfolio!</li>
         </ul>
       </p>
+      <br></br>
+      <br></br>
+      <p>
+        <h1>My Portfolio Project Links</h1>
+      </p>
+      <ol>
+        <li>
+          <a href="https://boots808.github.io/run-buddy/">
+            #1. Run Buddy Web Page
+          </a>
+        </li>
+        <li>
+          <a href="https://community-recipe-calendar.herokuapp.com/">
+            #2. Recipe-Me Web Page{" "}
+          </a>
+        </li>
+        <li>
+          <a href="https://boots808.github.io/fur-ever-home/">
+            #3. Endless Pawsibilities
+          </a>
+        </li>
+        <li>
+          <a href="https://boots808.github.io/red-cardinal-bird/">
+            #4. Planner App
+          </a>
+        </li>
+      </ol>
+      <br></br>
+      <br></br>
     </section>
   );
 }
