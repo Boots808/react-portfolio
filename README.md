@@ -21,3 +21,7 @@ Need to make updates to the page. Need to show tiles with links for prior projec
 ## Github Repo
 
 <https://github.com/Boots808/react-portfolio>
+
+## Image
+
+![Alt text](relative/path/to/capture.png/raw=true "Image of Web Page")
