@@ -4,7 +4,7 @@ import pizzaHunt from "../../assets/images/pizza-hunt.PNG";
 import runBuddy from "../../assets/images/run-buddy.PNG";
 import recipeMe from "../../assets/images/recipe-me.PNG";
 import plannerApp from "../../assets/images/work-day-scheduler.PNG";
-import endlessPawsibilities from "../../assets/images/endlessPawsibilities";
+import endless from "../../assets/images/endless.PNG";
 
 function Portfolio() {
   const portfolio = [
@@ -39,7 +39,7 @@ function Portfolio() {
     },
     {
       name: "Endless Pawsibilities",
-      imgsrc: endlessPawsibilities,
+      imgsrc: endless,
       link: "https://boots808.github.io/fur-ever-home/",
       repo: "https://github.com/Boots808/fur-ever-home",
     },

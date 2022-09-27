@@ -4,8 +4,8 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
-  --secondary: #fafafa;
+  --primary: #b2ff59;
+  --secondary: navy;
   --tertiary: #b12704;
   --light: #fafafa;
   --dark: #28acea;
@@ -94,6 +94,10 @@ header {
 
 header a {
   color: var(--light);
+}
+
+.heading {
+  color: rgb(228, 46, 1);
 }
 
 button {
@@ -239,7 +243,7 @@ textarea {
   cursor: pointer;
 }
 
-.modalBackdrop {
+/* .modalBackdrop {
   background: rgba(0, 0, 0, 0.65);
   bottom: 0;
   left: 0;
@@ -248,22 +252,22 @@ textarea {
   right: 0;
   top: 0;
   z-index: 1;
-}
+} */
 
-.modalContainer {
+/* .modalContainer {
   background: var(--darker);
   border-radius: 5px;
   max-width: 100%;
   margin: 50px auto;
   padding: 15px;
   width: 960px;
-}
+} */
 
-.modalTitle {
+/* .modalTitle {
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 25px;
-}
+} */
 
 button {
   background: var(--primary);
