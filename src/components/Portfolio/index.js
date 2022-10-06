@@ -9,10 +9,10 @@ import endless from "../../assets/images/endless.PNG";
 function Portfolio() {
   const portfolio = [
     {
-      name: "Cram Exam",
+      name: "Exam Cram",
       imgsrc: cramExam,
-      link: "",
-      repo: "",
+      link: "https://dashboard.heroku.com/apps/exam-cram",
+      repo: "https://github.com/lundbmp/flash-cards",
     },
     {
       name: "Pizza Hunt",
